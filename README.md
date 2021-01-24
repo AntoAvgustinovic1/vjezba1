@@ -1,2 +1,3 @@
 # vjezba1
-Opis
+opis123
+Test ispravka
